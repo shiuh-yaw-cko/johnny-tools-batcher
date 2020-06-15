@@ -16,7 +16,6 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "prestart": "react-scripts build",
     "start": "node server.js",
     "fe": "react-scripts start",
     "build": "react-scripts build",
