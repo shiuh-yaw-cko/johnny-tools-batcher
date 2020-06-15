@@ -4,7 +4,7 @@
 
 .logo {
   height: 60px;
-  background-image: url("./logo.svg");
+  background-image: url("../../logo.svg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   margin: 20px;
@@ -13,7 +13,7 @@
 
 .badger {
   height: 90px;
-  background-image: url("./badger.svg");
+  background-image: url("../../badger.svg");
   background-size: 90px auto;
   background-repeat: no-repeat;
   background-position: center;
