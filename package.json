@@ -1,5 +1,5 @@
 {
-  "name": "johnny-tools-bulker-org",
+  "name": "johnny-tools-batcher",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:8080",
